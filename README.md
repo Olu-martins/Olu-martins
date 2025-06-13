@@ -7,7 +7,7 @@ I build user-first UIs, seamless UX, and clean code that behaves.
 ## 🛠️ Tech Stack
 
 **Languages, Frameworks & Libraries:**  
-• `JavaScript (ES6+)` • `TypeScript` • `PHP (basics)` • `React & React Native` • `Next.js` • `TanStack Query (latest)` • `Redux`
+• `JavaScript` • `TypeScript` • `PHP (basics)` • `React & React Native` • `Next.js` • `TanStack Query (latest)` • `Redux`
 
 **Digging into:**  
 • `Node.js` • `App directory & Server actions` • `Edge functions` • `Blockchain`
