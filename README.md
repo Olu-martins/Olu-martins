@@ -10,7 +10,7 @@ I build user-first UIs, seamless UX, and clean code that behaves.
 • `JavaScript` • `TypeScript` • `PHP (basics)` • `React & React Native` • `Next.js` • `TanStack Query (latest)` • `Redux`
 
 **Digging into:**  
-• `Node.js` • `Serverless architecture` • `Blockchain - Smart contracts`
+• `Node.js` • `Serverless architecture` • `Blockchain`
 
 ## 📈 GitHub Stats
 
