@@ -1,31 +1,31 @@
 ## Hi there 👋
 
-Hey, I'm **Mayowa** —  I build user-first UIs, seamless UX, and clean code that behaves.
+Hey, I'm **Mayowa** — I build user-first UIs, seamless UX, and clean code that behaves.
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=olu-martins&label=Visitors&color=0e75b6&style=flat" alt="Visitor Counter" />
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-`JavaScript (ES6+)` • `TypeScript` • `PHP (basics)`
-
-**Frameworks & Libraries:**  
-`React` • `Next js` • `TanStack Query (latest)` • `Redux`
-
-**Styling:**  
-`Tailwind CSS` • `SASS` • `Styled Components`
-
-**Tools & Design:**  
-`Git` • `Vite` • `Figma`
-
-**Testing:**  
-`Vitest` • `Jest` • `React Testing Library`
+**Languages, Frameworks & Libraries:**  
+`JavaScript (ES6+)` • `TypeScript` • `PHP (basics)` • `React` • `Next.js` • `TanStack Query (latest)` • `Redux`
 
 **Native Language:**  
-`React-native`
+`React Native`
 
 **Digging into:**  
-`Node.js` • `app directory & server actions` • `edge functions` • `blockchain`
+`Node.js` • `App directory & Server actions` • `Edge functions` • `Blockchain`
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=olu-martins&theme=radical&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+</p>
 
 ---
 
@@ -37,10 +37,12 @@ Hey, I'm **Mayowa** —  I build user-first UIs, seamless UX, and clean code tha
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olu-martins&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-## 📬 Got a profitable gist? 
+---
 
-- 💼 [LinkedIn](https://linkedin.com/in/olumayowa-olukayode-1532171b2) 
-- ✉️ [Email Me](mailto:mayowasamuel86@gmail.com)
+## 📬 Got a profitable gist?
+
+- 💼 [LinkedIn](https://linkedin.com/in/olumayowa-olukayode-1532171b2)  
+- ✉️ [Email Me](mailto:mayowasamuel86@gmail.com)  
 - 🐦 [X (Twitter)](https://x.com/Olumayowa_Snr)
 
 ---
